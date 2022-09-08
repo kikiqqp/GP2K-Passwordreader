@@ -1,0 +1,11 @@
+C:\Users\Master\source\repos\GP2K\bin\Release\GP2K.exe
+C:\Users\Master\source\repos\GP2K\bin\Release\GP2K.pdb
+C:\Users\Master\source\repos\GP2K\obj\Release\GP2K.csprojAssemblyReference.cache
+C:\Users\Master\source\repos\GP2K\obj\Release\GP2K.Form1.resources
+C:\Users\Master\source\repos\GP2K\obj\Release\GP2K.Properties.Resources.resources
+C:\Users\Master\source\repos\GP2K\obj\Release\GP2K.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\GP2K\obj\Release\GP2K.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\GP2K\obj\Release\GP2K.exe
+C:\Users\Master\source\repos\GP2K\obj\Release\GP2K.pdb
+C:\Users\Master\source\repos\GP2K\bin\Release\GP2K.exe.CodeAnalysisLog.xml
+C:\Users\Master\source\repos\GP2K\bin\Release\GP2K.exe.lastcodeanalysissucceeded
